@@ -415,3 +415,4 @@
 "moment_upload_progress" = "上传中...";
 "moment_upload_preparing" = "正在剪切...";
 "moments_title" = "视频";
+"moment_game_title" = "选择视频所属的游戏";
