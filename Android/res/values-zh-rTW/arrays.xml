@@ -10,7 +10,6 @@
         <item>軟編碼（較慢，很穩定）</item>
     </string-array>
     <string-array name="pref_entries_video_orientation">
-        <item>自動</item>
         <item>水平</item>
         <item>垂直</item>
     </string-array>

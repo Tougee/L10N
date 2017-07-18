@@ -10,7 +10,6 @@
         <item>软编码（较慢，很稳定）</item>
     </string-array>
     <string-array name="pref_entries_video_orientation">
-        <item>自动</item>
         <item>横屏</item>
         <item>竖屏</item>
     </string-array>

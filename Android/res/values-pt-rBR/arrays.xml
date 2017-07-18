@@ -10,7 +10,6 @@
         <item>Software</item>
     </string-array>
     <string-array name="pref_entries_video_orientation">
-        <item>Auto</item>
         <item>Panorama</item>
         <item>Retrato</item>
     </string-array>

@@ -10,7 +10,6 @@
         <item>Программное</item>
     </string-array>
     <string-array name="pref_entries_video_orientation">
-        <item>Автоматически</item>
         <item>Альбомная</item>
         <item>Портретная</item>
     </string-array>

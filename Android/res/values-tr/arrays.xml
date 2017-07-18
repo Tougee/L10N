@@ -9,7 +9,6 @@
         <item>Yazılım</item>
     </string-array>
     <string-array name="pref_entries_video_orientation">
-        <item>Otomatik</item>
         <item>Yatay</item>
         <item>Dikey</item>
     </string-array>

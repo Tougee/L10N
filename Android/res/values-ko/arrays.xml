@@ -10,7 +10,6 @@
         <item>소프트웨어（비교적 느림，매우 안정）</item>
     </string-array>
     <string-array name="pref_entries_video_orientation">
-        <item>자동</item>
         <item>가로</item>
         <item>세로</item>
     </string-array>
