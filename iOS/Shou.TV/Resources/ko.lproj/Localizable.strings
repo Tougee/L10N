@@ -28,8 +28,6 @@
 "tab_messages" = "쪽지";
 
 "explore_recommended" = "Recommended";
-"explore_leaderboard" = "Leaderboard";
-"explore_leaderboard_text_score" = "score %@";
 
 "no_videos" = "동영상 없음";
 "no_games" = "게임 없음";

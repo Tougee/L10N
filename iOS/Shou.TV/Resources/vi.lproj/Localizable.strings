@@ -31,8 +31,6 @@
 
 "explore_broadcasters" = "Người Phát sóng";
 "explore_recommended" = "Recommended";
-"explore_leaderboard" = "Leaderboard";
-"explore_leaderboard_text_score" = "score %@";
 
 "no_videos" = "No videos to show";
 "no_games" = "No games to show";

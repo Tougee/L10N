@@ -36,8 +36,6 @@
 
 "explore_broadcasters" = "Игроки";
 "explore_recommended" = "Рекомендуемые";
-"explore_leaderboard" = "Доска лидеров";
-"explore_leaderboard_text_score" = "Очки: %@";
 
 
 "no_videos" = "Нет видео для просмотра";

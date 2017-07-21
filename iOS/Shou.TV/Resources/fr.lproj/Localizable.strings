@@ -32,8 +32,6 @@
 
 "explore_broadcasters" = "Streamers";
 "explore_recommended" = "Recommended";
-"explore_leaderboard" = "Leaderboard";
-"explore_leaderboard_text_score" = "score %@";
 
 "no_videos" = "Aucun vidéo ne s'affiche";
 "no_games" = "Aucun jeu ne s'affiche";

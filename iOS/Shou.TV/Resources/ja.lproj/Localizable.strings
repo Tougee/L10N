@@ -29,8 +29,6 @@
 "tab_messages" = "メッセージ";
 
 "explore_recommended" = "お勧め";
-"explore_leaderboard" = "ランキング";
-"explore_leaderboard_text_score" = "スコアの %@";
 
 "no_videos" = "ビデオ無し";
 "no_games" = "ゲーム無し";

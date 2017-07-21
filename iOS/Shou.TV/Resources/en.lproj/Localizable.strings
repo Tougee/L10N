@@ -33,8 +33,10 @@
 
 "explore_broadcasters" = "BROADCASTERS";
 "explore_recommended" = "Recommended";
-"explore_leaderboard" = "Leaderboard";
-"explore_leaderboard_text_score" = "score %@";
+"explore_broadcasts" = "BROADCASTS";
+
+"following_no_broadcasts" = "No broadcasts, ";
+"following_no_broadcasts_more" = "see more>>";
 
 "no_videos" = "No videos to show";
 "no_games" = "No games to show";
@@ -395,9 +397,6 @@
 "activity_button_retry" = "Retry";
 "activity_button_login" = "Login";
 "activity_button_follow" = "Recommendation";
-
-"today_btn_moreinshou" = "Show more in Shou.TV";
-"today_btn_login" = "Log in Shou.TV";
 
 "ad_fyber_rewarded_button" = "Free";
 "ad_fyber_rewarded_success" = "You have earned %@ Coins!";

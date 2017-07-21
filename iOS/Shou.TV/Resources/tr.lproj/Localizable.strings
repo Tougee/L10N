@@ -33,8 +33,6 @@
 
 "explore_broadcasters" = "Yayıncılar";
 "explore_recommended" = "Önerilen";
-"explore_leaderboard" = "Lider Tablosu";
-"explore_leaderboard_text_score" = "skor %@";
 
 "no_videos" = "Gösterilecek video yok";
 "no_games" = "Gösterilecek oyun yok";
@@ -394,9 +392,6 @@
 "activity_button_retry" = "Tekrar dene";
 "activity_button_login" = "Giriş Yap";
 "activity_button_follow" = "Recommendation";
-
-"today_btn_moreinshou" = "Shou.TV'de daha fazlasını göster";
-"today_btn_login" = "Shou.TV'ye giriş yap";
 
 "ad_fyber_rewarded_button" = "Ücretsiz";
 "ad_fyber_rewarded_success" = "%@ Coin kazandınız!";

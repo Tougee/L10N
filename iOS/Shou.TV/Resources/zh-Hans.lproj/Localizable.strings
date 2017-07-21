@@ -33,8 +33,10 @@
 
 "explore_broadcasters" = "主播";
 "explore_recommended" = "推荐";
-"explore_leaderboard" = "排行";
-"explore_leaderboard_text_score" = "人气 %@";
+"explore_broadcasts" = "直播";
+
+"following_no_broadcasts" = "你关注的主播没有在直播， ";
+"following_no_broadcasts_more" = "看看別的直播>>";
 
 "no_videos" = "没有视频";
 "no_games" = "没有游戏";
@@ -394,9 +396,6 @@
 "activity_button_retry" = "刷新页面";
 "activity_button_login" = "前往登录";
 "activity_button_follow" = "前往关注";
-
-"today_btn_moreinshou" = "在Shou.TV显示更多";
-"today_btn_login" = "加入Shou.TV";
 
 "ad_fyber_rewarded_button" = "免费";
 "ad_fyber_rewarded_success" = "你获得了 %@ 个金币！";
