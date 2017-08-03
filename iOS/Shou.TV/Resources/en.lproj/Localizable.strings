@@ -165,8 +165,8 @@
 "account_btn_save_profile" = "Save";
 "account_btn_saving_profile" = "Saving";
 "account_btn_saved_profile" = "Saved";
-"account_btn_follow" = "FOLLOW";
-"account_btn_following" = "FOLLOWING";
+"account_btn_follow" = "Follow";
+"account_btn_following" = "Following";
 "account_toast_follow_failed" = "Error when following";
 "account_toast_invalid_email" = "Invalid email";
 "account_toast_invalid_password_or_token" = "Invalid password or token";
