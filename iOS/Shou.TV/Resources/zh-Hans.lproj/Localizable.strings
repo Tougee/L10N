@@ -316,6 +316,8 @@
 "payment_faild_not_allow" = "应用内购买被禁止。 设置 > 通用 > 访问限制 > 允许应用内购买";
 "payment_faild" = "购买失败！";
 
+"gift_sent" = "送你";
+
 "statistics_title" = "统计";
 "statistics_title_views" = "观看";
 "statistics_title_likes" = "喜欢";

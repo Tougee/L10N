@@ -316,6 +316,8 @@
 "payment_faild_not_allow" = "應用內購買被禁止。 設定 > 一般 > 取用限制 > 允許 App 內購買";
 "payment_faild" = "購買失敗！";
 
+"gift_sent" = "抖内";
+
 "statistics_title_views" = "觀看";
 "statistics_title_likes" = "喜歡";
 "statistics_title_Income" = "收入";
