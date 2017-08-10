@@ -279,6 +279,7 @@
 "setting_notificaion_message" = "私信";
 "setting_notificaion_broadcast" = "新直播";
 "setting_notificaion_moment" = "新视频";
+"setting_notificaion_comment" = "新评论";
 
 "about_title" = "关于";
 "about_title_help" = "帮助中心";
@@ -417,3 +418,5 @@
 "moment_upload_preparing" = "正在剪切...";
 "moments_title" = "视频";
 "moment_game_title" = "选择视频所属的游戏";
+"moment_comment_title" = "评论";
+"moment_top_comment_title" = "热门评论";

@@ -279,6 +279,7 @@
 "setting_notificaion_message" = "訊息";
 "setting_notificaion_broadcast" = "新直播";
 "setting_notificaion_moment" = "新短片";
+"setting_notificaion_comment" = "新留言";
 
 "about_title" = "關於";
 "about_title_help" = "說明中心";
@@ -415,3 +416,5 @@
 "moment_upload_preparing" = "正在剪切...";
 "moments_title" = "影片";
 "moment_game_title" = "選擇影片所屬的遊戲";
+"moment_comment_title" = "留言";
+"moment_top_comment_title" = "熱門留言";
