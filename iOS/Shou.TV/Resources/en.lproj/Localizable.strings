@@ -281,6 +281,7 @@
 "setting_notificaion_message" = "Message Notification";
 "setting_notificaion_broadcast" = "Broadcast Notification";
 "setting_notificaion_moment" = "Moment Notification";
+"setting_notificaion_comment" = "Comment Notification";
 
 "about_title" = "About";
 "about_title_help" = "Help Center";
