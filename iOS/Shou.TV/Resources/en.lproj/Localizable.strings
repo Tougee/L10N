@@ -417,3 +417,5 @@
 "moment_upload_preparing" = "Preparing...";
 "moments_title" = "MOMENTS";
 "moment_game_title" = "Select a game for moment";
+"moment_comment_title" = "Commments";
+"moment_top_comment_title" = "Hot Commments";

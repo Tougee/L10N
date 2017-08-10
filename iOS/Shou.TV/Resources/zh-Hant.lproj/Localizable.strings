@@ -414,3 +414,5 @@
 "moment_upload_preparing" = "正在剪切...";
 "moments_title" = "影片";
 "moment_game_title" = "選擇影片所屬的遊戲";
+"moment_comment_title" = "留言";
+"moment_top_comment_title" = "熱門留言";

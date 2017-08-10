@@ -416,3 +416,5 @@
 "moment_upload_preparing" = "正在剪切...";
 "moments_title" = "视频";
 "moment_game_title" = "选择视频所属的游戏";
+"moment_comment_title" = "评论";
+"moment_top_comment_title" = "热门评论";
