@@ -421,3 +421,21 @@
 "moment_game_title" = "Select a game for moment";
 "moment_comment_title" = "Commments";
 "moment_top_comment_title" = "Hot Commments";
+
+"moment_title" = "MOCR";
+"moment_layer_type_title" = "Select media type";
+"moment_layer_type_video" = "Video";
+"moment_layer_type_photo" = "Photo";
+"moment_layer_type_gif" = "Gif";
+"moment_layer_type_text" = "Text";
+"moment_layer_type_camera" = "Camera";
+"moment_title_export" = "Export";
+"moment_title_next" = "Next";
+"moment_title_cover" = "Set a cover";
+"moment_hold_record" = "HOLD TO RECORD";
+"moment_export_success" = "Exported to Camera roll";
+"moment_cancel" = "Cancel";
+"moment_upload" = "Upload";
+
+"moment_import_video_permission" = "Please enable access to your photo library in the Settings";
+"moment_import_video_permission_button" = "permission settings";

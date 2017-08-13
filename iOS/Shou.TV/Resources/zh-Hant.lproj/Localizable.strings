@@ -418,3 +418,21 @@
 "moment_game_title" = "選擇影片所屬的遊戲";
 "moment_comment_title" = "留言";
 "moment_top_comment_title" = "熱門留言";
+
+
+"moment_title" = "MOCR";
+"moment_layer_type_title" = "選擇要添加的圖層類型";
+"moment_layer_type_video" = "視頻";
+"moment_layer_type_photo" = "圖片";
+"moment_layer_type_gif" = "Gif";
+"moment_layer_type_text" = "文字";
+"moment_layer_type_camera" = "攝像頭";
+"moment_title_export" = "導出";
+"moment_title_next" = "下一步";
+"moment_title_cover" = "設置封面";
+"moment_hold_record" = "長按錄製";
+"moment_export_success" = "已導出到相冊";
+"moment_cancel" = "取消";
+"moment_upload" = "上傳";
+"moment_import_video_permission" = "請允許訪問您的照片";
+"moment_import_video_permission_button" = "權限設置";

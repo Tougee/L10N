@@ -420,3 +420,21 @@
 "moment_game_title" = "选择视频所属的游戏";
 "moment_comment_title" = "评论";
 "moment_top_comment_title" = "热门评论";
+
+"moment_title" = "MOCR";
+"moment_layer_type_title" = "选择图层类型";
+"moment_layer_type_video" = "视频";
+"moment_layer_type_photo" = "图片";
+"moment_layer_type_gif" = "Gif";
+"moment_layer_type_text" = "文字";
+"moment_layer_type_camera" = "摄像头";
+"moment_title_export" = "导出";
+"moment_title_next" = "下一步";
+"moment_title_cover" = "设置封面";
+"moment_hold_record" = "长按录制";
+"moment_export_success" = "已导出到相册";
+"moment_cancel" = "取消";
+"moment_upload" = "上传";
+"moment_import_video_permission" = "请在允许访问您的照片";
+"moment_import_video_permission_button" = "权限设置";
+
