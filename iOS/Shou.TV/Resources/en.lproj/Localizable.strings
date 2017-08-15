@@ -319,7 +319,7 @@
 "payment_faild" = "Purchase failed!";
 "payment_faild_not_allow" = " In-App Purchases is disabled. Settings > General > Restrictions > Turn on In-App Purchases";
 
-"gift_sent" = "sent you";
+"gift_sent" = "sent";
 
 "statistics_title" = "Statistics";
 "statistics_title_views" = "Views";
