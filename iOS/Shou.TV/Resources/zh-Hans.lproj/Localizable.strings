@@ -34,6 +34,7 @@
 "explore_broadcasters" = "主播";
 "explore_recommended" = "推荐";
 "explore_broadcasts" = "直播";
+"explore_more" = "更多>>";
 
 "following_no_broadcasts" = "你关注的主播没有在直播， ";
 "following_no_broadcasts_more" = "看看別的直播>>";

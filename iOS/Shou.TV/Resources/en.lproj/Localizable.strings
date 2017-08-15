@@ -34,6 +34,7 @@
 "explore_broadcasters" = "BROADCASTERS";
 "explore_recommended" = "Recommended";
 "explore_broadcasts" = "BROADCASTS";
+"explore_more" = "MORE>>";
 
 "following_no_broadcasts" = "No broadcasts, ";
 "following_no_broadcasts_more" = "see more>>";
@@ -124,7 +125,7 @@
 "account_text_game_cast" = "%@ video";
 "account_text_game_players" = "%@ players";
 "account_text_joined" = "Joined on %@";
-"account_title_edit_profile" = "Edit Profile";
+"account_title_edit_profile" = "Edit profile";
 "account_title_change_password" = "Change Password";
 "account_label_username" = "Username";
 "account_label_password" = "Password";
