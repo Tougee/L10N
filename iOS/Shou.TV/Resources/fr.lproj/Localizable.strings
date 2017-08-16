@@ -341,6 +341,7 @@
 "notification_push_moment_upload" = "🔥 %@ uploaded a new moment";
 "notification_push_moment_like" = "❤️ %@ liked your moment";
 "notification_push_moment_share" = "💬 %@ shared a moment with you";
+"notification_push_comment" = "💬 %@ commented your moment";
 
 "rate_not_interested" = "Pas d'intérêt";
 "rate_title" = "nous sommes heureux que vous êtes herueux";

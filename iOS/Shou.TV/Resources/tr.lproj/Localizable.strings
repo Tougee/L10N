@@ -372,6 +372,7 @@
 "notification_push_moment_upload" = "🔥 %@ yeni bir an yükledi";
 "notification_push_moment_like" = "❤️ %@ anını beğendi";
 "notification_push_moment_share" = "💬 %@ seninle bir anını paylaştı";
+"notification_push_comment" = "💬 %@ commented your moment";
 
 "notification_permission_tips" = "Favori yayıncın CANLI YAYINA başladığında haberin olması için bildirimleri etkinleştir";
 "notification_permission_cancel" = "Şimdi Değil";
