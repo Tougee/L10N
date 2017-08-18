@@ -437,6 +437,8 @@
 "moment_export_success" = "已导出到相册";
 "moment_cancel" = "取消";
 "moment_upload" = "上传";
+"moment_mocr_guide" = "通过 MOCR 创作";
+
 "moment_import_video_permission" = "请在允许访问您的照片";
 "moment_import_video_permission_button" = "权限设置";
 
