@@ -71,6 +71,7 @@
 "landing_btn_log_in" = "Giriş Yap";
 "landing_btn_term" = "Hizmet Şartları";
 "landing_btn_privacy" = "Gizlilik Politikası";
+"landing_btn_switch_to_signup" = "No account yet? Sign up";
 "landing_btn_switch_to_login" = "Hesabınız mı var? Giriş yapın";
 "landing_btn_send_code" = "Send me verification code via Email";
 "landing_btn_send_via_email" = "Send via Email";

@@ -66,6 +66,7 @@
 "landing_btn_log_in" = "Se connecter";
 "landing_btn_term" = "Conditions de service";
 "landing_btn_privacy" = "Protection de la vie privée";
+"landing_btn_switch_to_signup" = "No account yet? Sign up";
 "landing_btn_switch_to_login" = "Avez-vous déjà un compte? Se connecter";
 "landing_btn_send_code" = "Send me verification code via Email";
 "landing_btn_send_via_email" = "Send via Email";

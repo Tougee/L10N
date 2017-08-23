@@ -62,6 +62,7 @@
 "landing_btn_log_in" = "Entrar";
 "landing_btn_term" = "Terms of Service";
 "landing_btn_privacy" = "Privacy Policy";
+"landing_btn_switch_to_signup" = "No account yet? Sign up";
 "landing_btn_switch_to_login" = "Have an account? Log in";
 "landing_btn_send_code" = "Send me verification code via Email";
 "landing_btn_send_via_email" = "Send via Email";

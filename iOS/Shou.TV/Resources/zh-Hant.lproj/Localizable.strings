@@ -75,6 +75,7 @@
 "landing_btn_log_in" = "登入";
 "landing_btn_term" = "服務條款";
 "landing_btn_privacy" = "隱私政策";
+"landing_btn_switch_to_signup" = "沒有帳號？註冊";
 "landing_btn_switch_to_login" = "已經有帳號了？登入";
 "landing_btn_send_code" = "透過 Email 發送驗證碼";
 "landing_btn_send_via_email" = "透過 Email 發送";
