@@ -65,6 +65,7 @@
 "landing_btn_log_in" = "تسجيل الدخول";
 "landing_btn_term" = "شروط الخدمة";
 "landing_btn_privacy" = "سياسة الخصوصية";
+"landing_btn_switch_to_signup" = "No account yet? Sign up";
 "landing_btn_switch_to_login" = "لديك حساب؟ سجل الدخول";
 "landing_btn_send_code" = "Send me verification code via Email";
 "landing_btn_send_via_email" = "Send via Email";

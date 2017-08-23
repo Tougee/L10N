@@ -72,6 +72,7 @@
 "landing_btn_log_in" = "Войти";
 "landing_btn_term" = "Правилами пользования";
 "landing_btn_privacy" = "Политикой конфиденциальности";
+"landing_btn_switch_to_signup" = "No account yet? Sign up";
 "landing_btn_switch_to_login" = "Уже есть аккаунт? Войдите";
 "landing_btn_send_code" = "Send me verification code via Email";
 "landing_btn_send_via_email" = "Send via Email";

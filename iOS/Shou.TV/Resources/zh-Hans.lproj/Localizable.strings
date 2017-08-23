@@ -75,6 +75,7 @@
 "landing_btn_log_in" = "登录";
 "landing_btn_term" = "服务条款";
 "landing_btn_privacy" = "隐私政策";
+"landing_btn_switch_to_signup" = "没有账号？注册";
 "landing_btn_switch_to_login" = "已经有账号了？登录";
 "landing_btn_send_code" = "通过 Email 发送验证码";
 "landing_btn_send_via_email" = "通过 Email 发送";
