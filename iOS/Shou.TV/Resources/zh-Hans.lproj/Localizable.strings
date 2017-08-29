@@ -359,6 +359,8 @@
 "message_from_following_all_marked_read" = "所有关注私信标记为已读";
 "message_from_strangers_marked_read" = "所有陌生人私信标记为已读";
 "message_delete_tips" = "📢 私信将在 24 小时后被删除";
+"message_title" = "私信";
+"message_settings" = "设置";
 
 "menu_copy" = "复制";
 "menu_copy_url" = "复制链接";
