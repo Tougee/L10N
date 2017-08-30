@@ -343,6 +343,7 @@
 "notification_push_moment_like" = "❤️ %@ liked your moment";
 "notification_push_moment_share" = "💬 %@ shared a moment with you";
 "notification_push_comment" = "💬 %@ commented your moment";
+"notification_push_rebroadcast" = "🔥 %@ rebroadcasted: %@";
 
 "rate_not_interested" = "Pas d'intérêt";
 "rate_title" = "nous sommes heureux que vous êtes herueux";

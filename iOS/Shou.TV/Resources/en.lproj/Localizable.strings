@@ -386,6 +386,7 @@
 "notification_push_moment_share" = "💬 %@ shared a moment with you";
 "notification_push_moment_upload" = "🔥 %@ uploaded a new moment";
 "notification_push_comment" = "💬 %@ commented your moment";
+"notification_push_rebroadcast" = "🔥 %@ rebroadcasted: %@";
 
 "notification_permission_tips" = "Enable notifications to get notified whenever your favorite broadcaster goes LIVE";
 "notification_permission_cancel" = "Not now";
