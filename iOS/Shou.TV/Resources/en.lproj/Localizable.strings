@@ -346,8 +346,8 @@
 "msg_popup_moderate_description" = "%@ is moderate in this room.";
 "msg_popup_moderate_cancel_description" = "%@ is cancel moderate in this room.";
 
-"message_section_title_following" = "FOLLOWING";
-"message_section_title_strangers" = "STRANGERS";
+"message_section_title_following" = "Following";
+"message_section_title_strangers" = "Strangers";
 "message_list_empty_placeholder" = "No messages to show.";
 "message_like_me" = "You liked %@'s broadcast";
 "message_like" = "%@ liked your broadcast";
@@ -361,6 +361,8 @@
 "message_from_following_all_marked_read" = "All following messages marked as read.";
 "message_from_strangers_marked_read" = "All strangers messages marked as read.";
 "message_delete_tips" = "📢 Messages will be deleted after 24 hours";
+"message_title" = "Messages";
+"message_settings" = "Settings";
 
 "menu_copy" = "Copy";
 "menu_copy_url" = "Copy Link";
