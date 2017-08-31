@@ -109,7 +109,7 @@
 "landing_hint_send_code_again" = "%@ 秒後重新發送";
 "landing_hint_permission" = "Shou 需要相冊和攝像頭許可權來設置頭像";
 "landing_hint_irreplaceable" = "您可以隨時更改它";
-"landing_hint_username_is_unique" = "您的用戶名是唯一的，您可以隨時更改它。";
+"landing_hint_username" = "您的用戶名是唯一的，您可以隨時更改它。\n您可以使用字母，數字及下劃線。";
 
 "account_text_user_views" = "%@ 觀看";
 "account_text_user_likes" = "%@ 喜歡";

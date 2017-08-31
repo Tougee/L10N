@@ -105,7 +105,7 @@
 "landing_hint_send_code_again" = "Send me verification code again %@s";
 "landing_hint_permission" = "Shou needs to open your album or camera Permissions for Avatar settings";
 "landing_hint_irreplaceable" = "you can always change it later";
-"landing_hint_username_is_unique" = "your username is unique. You can always change it later";
+"landing_hint_username" = "your username is unique. You can always change it later.\nYou can use letters, numbers, and underscores.";
 
 "account_text_user_views" = "%@ görüntüleme";
 "account_text_user_likes" = "%@ beğeni";
