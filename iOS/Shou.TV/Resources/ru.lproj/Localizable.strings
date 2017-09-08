@@ -22,6 +22,7 @@
 "dialog_button_share" = "Поделиться";
 "dialog_button_close" = "Закрыть";
 "dialog_button_cancel" = "Отменить";
+"dialog_button_send" = "Send";
 "dialog_title_open_safari" = "Открыть в Safari?";
 
 
@@ -59,6 +60,9 @@
 "profile_text_games" = "Игры";
 "profile_text_logout" = "Выйти";
 "profile_text_options" = "Настройки";
+"profile_title_feedback" = "Feedback";
+"profile_feedback_placeholder" = "Write your feedback";
+"profile_feedback_hint" = "Screenshot of the last page you were on will also be sent";
 
 "landing_slogan" = "Мобильное видеостриминговое сообщество";
 "landing_btn_vk" = "Войти с помощью VK";

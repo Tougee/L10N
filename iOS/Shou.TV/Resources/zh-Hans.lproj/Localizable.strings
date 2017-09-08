@@ -21,6 +21,7 @@
 "dialog_button_close" = "关闭";
 "dialog_button_cancel" = "取消";
 "dialog_button_change" = "更换";
+"dialog_button_send" = "发送";
 "dialog_title_open_safari" = "用 Safari 打开链接?";
 
 "tab_home" = "首页";
@@ -61,6 +62,9 @@
 "profile_text_options" = "账号设置";
 "profile_text_achievements" = "成就";
 "profile_text_top_followers" = "粉丝榜";
+"profile_title_feedback" = "举报用户";
+"profile_feedback_placeholder" = "情况描述";
+"profile_feedback_hint" = "将会发送上个页面的截图";
 
 "landing_slogan" = "Shou 是一个手机游戏直播社区";
 "landing_btn_vk" = "通过 VK 登录";

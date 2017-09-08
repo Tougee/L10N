@@ -21,6 +21,7 @@
 "dialog_button_close" = "關閉";
 "dialog_button_cancel" = "取消";
 "dialog_button_change" = "變更";
+"dialog_button_send" = "發送";
 "dialog_title_open_safari" = "用 Safari 開啟連結？";
 
 "tab_home" = "首頁";
@@ -61,6 +62,9 @@
 "profile_text_options" = "帳號設定";
 "profile_text_achievements" = "成就";
 "profile_text_top_followers" = "粉絲榜";
+"profile_title_feedback" = "檢舉";
+"profile_feedback_placeholder" = "情況描述";
+"profile_feedback_hint" = "將會發送上個頁面的截圖";
 
 "landing_slogan" = "Shou 是一個手機遊戲直播社群";
 "landing_btn_vk" = "透過 VK 登入";

@@ -20,6 +20,7 @@
 "dialog_button_share" = "مشاركة";
 "dialog_button_close" = "قريب";
 "dialog_button_cancel" = "إلغاء";
+"dialog_button_send" = "Send";
 "dialog_title_open_safari" = "فتح باستخدام سفاري؟";
 
 "tab_home" = "الرئيسية";
@@ -53,6 +54,9 @@
 "profile_text_games" = "الألعاب";
 "profile_text_logout" = "تسجيل الخروج";
 "profile_text_options" = "خيارات";
+"profile_title_feedback" = "Feedback";
+"profile_feedback_placeholder" = "Write your feedback";
+"profile_feedback_hint" = "Screenshot of the last page you were on will also be sent";
 
 "landing_slogan" = "Shou هو\nمجمتمع بث ألعاب الهاتف";
 "landing_btn_twitter" = "واصل مع تويتر";
