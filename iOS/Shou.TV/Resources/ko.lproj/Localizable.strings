@@ -66,6 +66,8 @@
 "landing_btn_pick_from_library" = "Choose photo as avatar";
 "landing_btn_pick_from_camera" = "Take photo as avatar";
 "landing_btn_forgot_password" = "Forgot your password?";
+"landing_btn_try_again" = "Try again";
+"landing_btn_reset_password" = "Reset password";
 "landing_placeholder_email" = "Email";
 "landing_placeholder_username_or_email" = "Username or Email";
 "landing_placeholder_password" = "Password";
@@ -86,6 +88,7 @@
 "landing_hint_permission" = "Shou needs to open your album or camera Permissions for Avatar settings";
 "landing_hint_irreplaceable" = "you can always change it later";
 "landing_hint_username" = "your username is unique. You can always change it later.\nYou can use letters, numbers, and underscores.";
+"landing_hint_reset_password" = "You can reset your password by Email.";
 
 "account_text_user_views" = "조회수: %@";
 "account_text_user_likes" = "%@ likes";

@@ -74,6 +74,8 @@
 "landing_btn_send_again" = "Send again";
 "landing_btn_correct_email" = "Mistyped email?";
 "landing_btn_skip" = "スキップする";
+"landing_btn_try_again" = "Try again";
+"landing_btn_reset_password" = "Reset password";
 "landing_google_plus_sign_in_progress" = "Googleでログイン中";
 "landing_facebook_sign_in_progress" = "Facebookでログイン中";
 "landing_twitter_sign_in_progress" = "Twitterでログイン中";
@@ -101,6 +103,7 @@
 "landing_hint_permission" = "Shou needs to open your album or camera Permissions for Avatar settings";
 "landing_hint_irreplaceable" = "you can always change it later";
 "landing_hint_username" = "your username is unique. You can always change it later.\nYou can use letters, numbers, and underscores.";
+"landing_hint_reset_password" = "You can reset your password by Email.";
 
 "account_text_user_views" = "%@ 見る";
 "account_text_user_likes" = "%@ 好き";
