@@ -20,6 +20,7 @@
 "dialog_button_share" = "Partager à";
 "dialog_button_close" = "Fermer";
 "dialog_button_cancel" = "Annuler";
+"dialog_button_send" = "Send";
 "dialog_title_open_safari" = "Ouvrir sur Safari?";
 
 "tab_home" = "Accueil";
@@ -53,6 +54,9 @@
 "profile_text_games" = "Jeux";
 "profile_text_logout" = "Déconnexion";
 "profile_text_options" = "Options";
+"profile_title_feedback" = "Feedback";
+"profile_feedback_placeholder" = "Write your feedback";
+"profile_feedback_hint" = "Screenshot of the last page you were on will also be sent";
 
 "landing_slogan" = "Shou est une communauté \npour live des jeux mobiles.";
 "landing_btn_vk" = "Continuer avec VK";

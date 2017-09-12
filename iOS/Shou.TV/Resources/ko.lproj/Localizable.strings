@@ -18,6 +18,7 @@
 "dialog_button_share" = "공유";
 "dialog_button_close" = "닫기";
 "dialog_button_cancel" = "취소";
+"dialog_button_send" = "Send";
 
 "tab_home" = "홈";
 "tab_games" = "게임";
@@ -41,6 +42,9 @@
 "profile_text_followers" = "FOLLOWERS";
 "profile_text_following" = "FOLLOWING";
 "profile_edit_profile" = "프로필 편집";
+"profile_title_feedback" = "Feedback";
+"profile_feedback_placeholder" = "Write your feedback";
+"profile_feedback_hint" = "Screenshot of the last page you were on will also be sent";
 
 "landing_slogan" = "Shou는 모바일 게임 스트리밍 커뮤니티입니다.";
 "landing_btn_vk" = "VK으로 로그인";
