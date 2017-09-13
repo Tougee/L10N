@@ -388,6 +388,8 @@
 "notification_push_moment_share" = "💬 %@ 分享给你一个视频";
 "notification_push_comment" = "💬 %@ 评论了您的视频";
 "notification_push_rebroadcast" = "🔥 %@ 转播: %@";
+"notification_receive_share" = "🔥 %@ 分享你的直播给 %@ 个好友";
+"notification_receive_gift" = "🎁 %@ 送你 %@";
 
 "notification_permission_tips" = "允许收到你喜欢的主播开始直播的通知";
 "notification_permission_cancel" = "暂不";

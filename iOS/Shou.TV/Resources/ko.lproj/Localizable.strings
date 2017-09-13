@@ -276,6 +276,8 @@
 "notification_push_moment_share" = "💬 %@ shared a moment with you";
 "notification_push_comment" = "💬 %@ commented your moment";
 "notification_push_rebroadcast" = "🔥 %@ rebroadcasted: %@";
+"notification_receive_share" = "🔥 %@ shared your broadcast to %@ friends";
+"notification_receive_gift" = "🎁 %@ sent you %@";
 
 "activity_screen_streaming_retry" = "재시도";
 "activity_network_error" = "인터넷 연결 문제";
