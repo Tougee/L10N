@@ -394,6 +394,7 @@
 "notification_permission_cancel" = "暫不";
 "notification_permission_enable" = "允許通知";
 "notification_reply" = "回覆";
+"notification_mute" = "禁言";
 "notification_setting_succeeded" = "已保存消息通知設置";
 "notification_setting_failed" = "保存消息通知設置失敗，請稍後重試";
 

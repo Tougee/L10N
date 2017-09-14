@@ -395,6 +395,7 @@
 "notification_permission_cancel" = "暂不";
 "notification_permission_enable" = "允许通知";
 "notification_reply" = "回复";
+"notification_mute" = "屏蔽";
 "notification_setting_succeeded" = "已保存消息通知设置";
 "notification_setting_failed" = "保存消息通知设置失败，请稍后重试";
 
