@@ -35,6 +35,7 @@
 "explore_broadcasters" = "BROADCASTERS";
 "explore_recommended" = "Recommended";
 "explore_broadcasts" = "BROADCASTS";
+"explore_moments" = "MOMENTS";
 "explore_more" = "MORE>>";
 
 "following_no_broadcasts" = "No broadcasts, ";
@@ -424,34 +425,24 @@
 "broadcasts_time_remaining" = "%@ hours remaining";
 "broadcasts_tips" = "📢 Broadcasts will be deleted after 24 hours";
 
+"moment_title" = "Moment";
+"moment_title_export" = "Export";
+"moment_title_next" = "Next";
+"moment_title_cover" = "Set a cover";
 "moment_import_title" = "Choose a game video";
 "moment_edit_title" = "Edit";
 "moment_file_unavailable" = "The video file is broken, please try to choose other game video.";
+"moment_upload" = "Upload";
 "moment_upload_failed" = "Failed to upload video, please try again.";
 "moment_upload_timeout" = "Upload video timed out, please try again.";
 "moment_upload_success" = "Upload video successfully";
 "moment_upload_progress" = "Uploading...";
 "moment_upload_preparing" = "Preparing...";
-"moments_title" = "MOMENTS";
 "moment_game_title" = "Select a game for moment";
 "moment_comment_title" = "Commments";
 "moment_top_comment_title" = "Hot Commments";
-
-"moment_title" = "MOCR";
-"moment_layer_type_title" = "Select media type";
-"moment_layer_type_video" = "Video";
-"moment_layer_type_photo" = "Photo";
-"moment_layer_type_gif" = "Gif";
-"moment_layer_type_text" = "Text";
-"moment_layer_type_camera" = "Camera";
-"moment_title_export" = "Export";
-"moment_title_next" = "Next";
-"moment_title_cover" = "Set a cover";
-"moment_hold_record" = "HOLD TO RECORD";
 "moment_export_success" = "Exported to Camera roll";
 "moment_cancel" = "Cancel";
-"moment_upload" = "Upload";
 "moment_mocr_guide" = "CREATE WITH MOCR";
-
 "moment_import_video_permission" = "Please enable access to your photo library in the Settings";
 "moment_import_video_permission_button" = "permission settings";

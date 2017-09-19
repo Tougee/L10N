@@ -31,11 +31,12 @@
 "tab_explore" = "探索";
 "tab_me" = "我的";
 "tab_messages" = "訊息";
-"explore_more" = "更多>>";
 
 "explore_broadcasters" = "主播";
 "explore_recommended" = "推薦";
-"explore_broadcasts" = "實況";
+"explore_broadcasts" = "直播";
+"explore_moments" = "影片";
+"explore_more" = "更多>>";
 
 "following_no_broadcasts" = "你關注的主播沒有在實況， ";
 "following_no_broadcasts_more" = "看看別的實況>>";
@@ -419,35 +420,24 @@
 "broadcasts_time_remaining" = "剩餘 %@ 小時";
 "broadcasts_tips" = "📢 影片將在 24 小時後被刪除";
 
-"moment_import_title" = "選擇一個遊戲視頻";
+"moment_title" = "影片";
+"moment_title_cover" = "設置封面";
+"moment_title_export" = "導出";
+"moment_title_next" = "下一步";
 "moment_edit_title" = "編輯";
-"moment_file_unavailable" = "視頻有問題，請嘗試選擇其他遊戲視頻。";
+"moment_file_unavailable" = "影片有問題，請嘗試選擇其他遊戲影片。";
+"moment_upload" = "上傳";
 "moment_upload_failed" = "上傳失敗，請稍後重試。";
 "moment_upload_timeout" = "上傳超時，請稍後重試。";
 "moment_upload_success" = "上傳成功";
 "moment_upload_progress" = "上傳中...";
 "moment_upload_preparing" = "正在剪切...";
-"moments_title" = "影片";
 "moment_game_title" = "選擇影片所屬的遊戲";
 "moment_comment_title" = "留言";
 "moment_top_comment_title" = "熱門留言";
-
-
-"moment_title" = "MOCR";
-"moment_layer_type_title" = "選擇要添加的圖層類型";
-"moment_layer_type_video" = "視頻";
-"moment_layer_type_photo" = "圖片";
-"moment_layer_type_gif" = "Gif";
-"moment_layer_type_text" = "文字";
-"moment_layer_type_camera" = "攝像頭";
-"moment_title_export" = "導出";
-"moment_title_next" = "下一步";
-"moment_title_cover" = "設置封面";
-"moment_hold_record" = "長按錄製";
 "moment_export_success" = "已導出到相冊";
-"moment_cancel" = "取消";
-"moment_upload" = "上傳";
 "moment_mocr_guide" = "通過 MOCR 創作";
-
+"moment_cancel" = "取消";
+"moment_import_title" = "選擇一個遊戲影片";
 "moment_import_video_permission" = "請允許訪問您的照片";
 "moment_import_video_permission_button" = "權限設置";
