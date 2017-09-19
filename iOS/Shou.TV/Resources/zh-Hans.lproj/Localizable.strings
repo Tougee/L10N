@@ -389,8 +389,9 @@
 "notification_push_moment_share" = "💬 %@ 分享给你一个视频";
 "notification_push_comment" = "💬 %@ 评论了您的视频";
 "notification_push_rebroadcast" = "🔥 %@ 转播: %@";
-"notification_receive_share" = "🔥 %@ 分享你的直播给 %@ 个好友";
-"notification_receive_gift" = "🎁 %@ 送你 %@";
+"notification_push_replaykit_message" = "💬 %@: %@";
+"notification_push_replaykit_share" = "🔥 %@ 分享你的直播给 %@ 个好友";
+"notification_push_replaykit_gift" = "🎁 %@ 送你 %@";
 
 "notification_permission_tips" = "允许收到你喜欢的主播开始直播的通知";
 "notification_permission_cancel" = "暂不";
@@ -422,7 +423,11 @@
 "broadcasts_time_remaining" = "剩余 %@ 小时";
 "broadcasts_tips" = "📢 视频将在 24 小时后被删除";
 
+"broadcast_replaykit_guide" = "请添加附加控制在 iOS 设置 > 控制中心 > 屏幕录制。";
+"broadcast_guide" = "开始直播";
+
 "moment_title" = "短视频";
+"moment_guide" = "上传游戏短视频";
 "moment_import_title" = "选择一个游戏视频";
 "moment_edit_title" = "编辑";
 "moment_file_unavailable" = "视频有问题，请尝试选择其他游戏视频。";

@@ -392,8 +392,9 @@
 "notification_push_moment_upload" = "🔥 %@ uploaded a new moment";
 "notification_push_comment" = "💬 %@ commented your moment";
 "notification_push_rebroadcast" = "🔥 %@ rebroadcasted: %@";
-"notification_receive_share" = "🔥 %@ shared your broadcast to %@ friends";
-"notification_receive_gift" = "🎁 %@ sent you %@";
+"notification_push_replaykit_message" = "💬 %@: %@";
+"notification_push_replaykit_share" = "🔥 %@ shared your broadcast to %@ friends";
+"notification_push_replaykit_gift" = "🎁 %@ sent you %@";
 
 
 "notification_permission_tips" = "Enable notifications to get notified whenever your favorite broadcaster goes LIVE";
@@ -425,7 +426,11 @@
 "broadcasts_time_remaining" = "%@ hours remaining";
 "broadcasts_tips" = "📢 Broadcasts will be deleted after 24 hours";
 
+"broadcast_replaykit_guide" = "Please add additional control in iOS Settings > Control Center > Screen Recording.";
+"broadcast_guide" = "Go Live";
+
 "moment_title" = "Moment";
+"moment_guide" = "Create a moment";
 "moment_title_export" = "Export";
 "moment_title_next" = "Next";
 "moment_title_cover" = "Set a cover";

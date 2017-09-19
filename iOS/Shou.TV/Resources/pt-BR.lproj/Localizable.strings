@@ -325,8 +325,9 @@
 "notification_push_moment_share" = "💬 %@ shared a moment with you";
 "notification_push_comment" = "💬 %@ commented your moment";
 "notification_push_rebroadcast" = "🔥 %@ rebroadcasted: %@";
-"notification_receive_share" = "🔥 %@ shared your broadcast to %@ friends";
-"notification_receive_gift" = "🎁 %@ sent you %@";
+"notification_push_replaykit_message" = "💬 %@: %@";
+"notification_push_replaykit_share" = "🔥 %@ shared your broadcast to %@ friends";
+"notification_push_replaykit_gift" = "🎁 %@ sent you %@";
 
 "activity_screen_streaming_retry" = "Tentar novamente";
 "activity_network_error" = "Erro na conexão com a rede ~";

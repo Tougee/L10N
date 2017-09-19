@@ -379,8 +379,9 @@
 "notification_push_moment_share" = "💬 %@ seninle bir anını paylaştı";
 "notification_push_comment" = "💬 %@ commented your moment";
 "notification_push_rebroadcast" = "🔥 %@ rebroadcasted: %@";
-"notification_receive_share" = "🔥 %@ shared your broadcast to %@ friends";
-"notification_receive_gift" = "🎁 %@ sent you %@";
+"notification_push_replaykit_message" = "💬 %@: %@";
+"notification_push_replaykit_share" = "🔥 %@ shared your broadcast to %@ friends";
+"notification_push_replaykit_gift" = "🎁 %@ sent you %@";
 
 "notification_permission_tips" = "Favori yayıncın CANLI YAYINA başladığında haberin olması için bildirimleri etkinleştir";
 "notification_permission_cancel" = "Şimdi Değil";
