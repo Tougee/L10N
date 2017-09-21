@@ -429,6 +429,17 @@
 "broadcast_replaykit_guide" = "请添加附加控制在 iOS 设置 > 控制中心 > 屏幕录制。";
 "broadcast_guide" = "开始直播";
 
+"broadcast_orientation" = "屏幕方向";
+"broadcast_orientation_portrait" = "竖直";
+"broadcast_orientation_landscape_left" = "横向 (Home 键在左边)";
+"broadcast_orientation_landscape_right" = "横向 (Home 键在右边)";
+"broadcast_orientation_portrait_up" = "竖直 (倒立)";
+"broadcast_quality" = "画面质量";
+"broadcast_quality_low" = "低";
+"broadcast_quality_medium" = "中";
+"broadcast_quality_high" = "高";
+"broadcast_title_empty" = "请输入直播标题";
+
 "moment_title" = "短视频";
 "moment_guide" = "上传游戏短视频";
 "moment_import_title" = "选择一个游戏视频";

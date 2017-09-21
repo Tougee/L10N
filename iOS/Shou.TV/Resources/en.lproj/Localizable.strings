@@ -344,7 +344,7 @@
 "explore_search_game" = "Search \"%@\" game?";
 
 "VIDEO_CAMERA_LIVE_TITLE_HINT" = "What are you seeing now?";
-"VIDEO_CAMERA_STREAMING_READY" = "Start Broadcast";
+"VIDEO_CAMERA_STREAMING_READY" = "START BROADCAST";
 "VIDEO_CAMERA_STREAMING_STOP" = "Stop Broadcast";
 "DIALOG_FAILD_TO_CAMERA_GRANTED" = "Grant camera failed";
 "DIALOG_FAILD_TO_MIC_GRANTED" = "Grant mic failed";
@@ -431,6 +431,17 @@
 
 "broadcast_replaykit_guide" = "Please add additional control in iOS Settings > Control Center > Screen Recording.";
 "broadcast_guide" = "Go Live";
+
+"broadcast_orientation" = "Orientation";
+"broadcast_orientation_portrait" = "Portrait";
+"broadcast_orientation_landscape_left" = "Landscape (Home Button To Left)";
+"broadcast_orientation_landscape_right" = "Landscape (Home Button To Right)";
+"broadcast_orientation_portrait_up" = "Portrait (Upside Down)";
+"broadcast_quality" = "Quality";
+"broadcast_quality_low" = "Low";
+"broadcast_quality_medium" = "Medium";
+"broadcast_quality_high" = "High";
+"broadcast_title_empty" = "Please enter broadcast title";
 
 "moment_title" = "Moment";
 "moment_guide" = "Create a moment";

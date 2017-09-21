@@ -426,6 +426,17 @@
 "broadcast_replaykit_guide" = "請添加控制項目在 iOS 設置 > 控制中心 > 熒屏錄製。";
 "broadcast_guide" = "開始直播";
 
+"broadcast_orientation" = "屏幕方向";
+"broadcast_orientation_portrait" = "豎直";
+"broadcast_orientation_landscape_left" = "橫向 (Home 鍵在左邊)";
+"broadcast_orientation_landscape_right" = "橫向 (Home 鍵在右邊)";
+"broadcast_orientation_portrait_up" = "豎直 (倒立)";
+"broadcast_quality" = "播送質量";
+"broadcast_quality_low" = "低";
+"broadcast_quality_medium" = "中";
+"broadcast_quality_high" = "高";
+"broadcast_title_empty" = "請輸入直播標題";
+
 "moment_title" = "影片";
 "moment_guide" = "上傳遊戲影片";
 "moment_title_cover" = "設置封面";

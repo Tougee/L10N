@@ -338,6 +338,17 @@
 
 "spotlight_content" = "مشاهدة @% مباشرة على Shou";
 
+"broadcast_orientation" = "التوجيه";
+"broadcast_orientation_portrait" = "تصوير عمودي";
+"broadcast_orientation_landscape_left" = "تصوير افقي ،زر الهوم سيكون لليسار";
+"broadcast_orientation_landscape_right" = "تصوير افقي، زر الهوم سيكون لليمين";
+"broadcast_orientation_portrait_up" = "تصوير عمودي معكوس للاسفل";
+"broadcast_quality" = "الجودة";
+"broadcast_quality_low" = "Low";
+"broadcast_quality_medium" = "متوسط";
+"broadcast_quality_high" = "عالي";
+"broadcast_title_empty" = "يرجى اختيار عنوان البث";
+
 "notification_push_live" = "🔥 %@ يبث %@";
 "notification_push_follow" = "💞 %@ يتابعونك";
 "notification_push_share" = "💬 %@ يريدك أن تشاهد %@";

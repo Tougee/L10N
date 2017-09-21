@@ -341,6 +341,17 @@
 
 "spotlight_content" = "Voyez %@ LIVE sur Shou";
 
+"broadcast_orientation" = "Orientation";
+"broadcast_orientation_portrait" = "Portrait";
+"broadcast_orientation_landscape_left" = "Paysage (Bouton Home à gauche)";
+"broadcast_orientation_landscape_right" = "Paysage (Bouton Home à droite)";
+"broadcast_orientation_portrait_up" = "Portrait (Bouton de veille en bas)";
+"broadcast_qulity" = "Qulity";
+"broadcast_qulity_low" = "Low";
+"broadcast_qulity_medium" = "Medium";
+"broadcast_qulity_high" = "High";
+"broadcast_title_empty" = "Vueillez entrer un titre de diffusion";
+
 "notification_push_live" = "🔥 %@ live %@";
 "notification_push_follow" = "💞 %@ vous ont suivi";
 "notification_push_share" = "💬 %@ vous demande de voir %@";

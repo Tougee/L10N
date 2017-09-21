@@ -320,6 +320,17 @@
 "share_to_successed" = "シェアに成功しました!";
 "share_no_found_mutual" = "相互フォローしているユーザーが見つかりませんでした";
 
+"broadcast_orientation" = "スクリーン方向";
+"broadcast_orientation_portrait" = "縦";
+"broadcast_orientation_landscape_left" = "横 (Homeが左に)";
+"broadcast_orientation_landscape_right" = "横 (Homeが右に)";
+"broadcast_orientation_portrait_up" = "縦 (逆立ち)";
+"broadcast_quality" = "画面品質";
+"broadcast_quality_low" = "低";
+"broadcast_quality_medium" = "中";
+"broadcast_quality_high" = "高";
+"broadcast_title_empty" = "放送タイトルを入力してください";
+
 "notification_push_live" = "🔥 %@は%@をブロードキャストしています";
 "notification_push_follow" = "💞 があなたをフォローしました";
 "notification_push_share" = "💬 %@ want you to watch %@";
