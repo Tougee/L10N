@@ -3,37 +3,19 @@
 
     <string name="app_name">Shou</string>
     <string name="tab_feed">Página Inicial</string>
-    <string name="tab_broadcast">Transmissão</string>
-    <string name="tab_games">Jogos</string>
-    <string name="card_record">Gravar a tela</string>
     <string name="description_notification_icon">ícone</string>
-    <string name="description_notification_record">Começar ou Parar gravação</string>
     <string name="description_notification_broadcast">Começar ou Parar de transmitir</string>
     <string name="description_notification_quit">Sair</string>
-    <string name="description_toast_icon">ícone</string>
     <string name="description_activity_landing_background">Fundo de Shou.TV </string>
     <string name="description_activity_landing_brand">Marca Shou.Tv</string>
-    <string name="description_activity_account_field_glyph_bio">Simbolo de Biografia.</string>
     <string name="description_activity_account_video_thumbnail">Maintain thumbnail </string>
     <string name="description_activity_game_thumbnail">Game thumbnail</string>
     <string name="description_menu_profile_icon">ícone de perfil</string>
-    <string name="description_menu_fullscreen">Tela Cheia</string>
-    <string name="description_device_item_icon">icone do dispositivo</string>
-    <string name="description_media_item_icon">icone de midia</string>
-    <string name="description_video_cover">video resumo</string>
     <string name="description_play_pause">parar player</string>
-    <string name="description_live">Ao vivo</string>
-    <string name="menu_next">Próxima</string>
-    <string name="menu_more">Mais</string>
-    <string name="menu_recordings">Gravações</string>
     <string name="menu_settings">Configurações</string>
-    <string name="menu_feedback">Feedback</string>
     <string name="menu_search">Pesquisa</string>
-    <string name="menu_like">Gostar</string>
     <string name="menu_share">Compartilhar</string>
     <string name="search_hint">Pesquisar Jogador/game</string>
-    <string name="profile_edit_profile">Editar perfil</string>
-    <string name="activity_landing_btn_sign_up">Registre-se</string>
     <string name="activity_landing_btn_sign_in">Entrar</string>
     <string name="activity_landing_google_plus_sign_in_progress">Entrar com Google Plus</string>
     <string name="activity_landing_facebook_sign_in_progress">Entrar com Facebook</string>
@@ -45,11 +27,8 @@
     <string name="activity_account_hint_password">senha</string>
     <string name="activity_account_hint_name">nome</string>
     <string name="activity_account_hint_biography">biografia</string>
-    <string name="activity_account_text_optional">opcional</string>
     <string name="activity_account_choose_avatar">escolha o avatar</string>
     <string name="activity_account_choose_avatar_failed">Falha ao escolher o avatar</string>
-    <string name="activity_account_btn_signing_up">Cadastrando</string>
-    <string name="activity_account_btn_signed_up">Cadastrado</string>
     <string name="activity_account_btn_signing_in">Acessando</string>
     <string name="activity_account_btn_signed_in">Acessado</string>
     <string name="activity_account_btn_forgot_password">Esqueceu a senha?</string>
@@ -63,15 +42,11 @@
     <string name="activity_account_btn_saving_profile">Salvando</string>
     <string name="activity_account_btn_saved_profile">Salvo</string>
     <string name="activity_account_btn_follow">Seguir</string>
-    <string name="activity_account_btn_following">Seguindo</string>
     <string name="activity_account_btn_install">Instalar</string>
     <string name="activity_account_btn_open">Abrir</string>
-    <string name="activity_account_text_user_views">%s visualizaçoes</string>
     <!-- Like is a quantifiable expression, you can have 10, 100, 2000 likes. Gostar is a qualifiable expression, you can't have 200 Gostar. But you can have "200 videos que você gostou" (200 videos that you liked) In this case it's needed to know what like refers to, to videos, people, ... -->
-    <string name="activity_account_text_user_viewers">%s espectadores </string>
     <string name="activity_account_text_game_casts">%s videos</string>
     <string name="activity_account_text_game_players">%s jogadoras</string>
-    <string name="activity_account_text_profile">perfil</string>
     <string name="activity_account_toast_invalid_email">Email invalido</string>
     <string name="activity_account_toast_invalid_password_or_token">Senha ou token invalido</string>
     <string name="activity_account_toast_invalid_identify_or_password">Identidade ou Senha invalida</string>
@@ -81,7 +56,6 @@
     <string name="activity_account_toast_failed_to_sign_in_with_google_plus">Houve um erro ao entrar com Google Plus :(</string>
     <string name="activity_account_toast_failed_to_sign_in_with_facebook">Houve um erro ao entrar com Facebook :(</string>
     <string name="activity_account_toast_failed_to_sign_in_with_twitter">Houve um erro ao entrar com Twitter :(</string>
-    <string name="activity_account_toast_sign_up_failed">Falha ao registrar com as informaçoes dadas</string>
     <string name="activity_account_toast_sign_in_required">Entre na sua conta para continuar</string>
     <string name="activity_image_cropper_btn_use">Usar</string>
     <string name="activity_image_cropper_btn_cancel">Cancelar</string>
@@ -90,56 +64,35 @@
     <string name="activity_screen_streaming_checking">Conectando &#8230;</string>
     <string name="activity_screen_streaming_ready">Transmissão</string>
     <string name="activity_screen_streaming_share">Eu estou transmitindo minha tela do Android em  %s</string>
-    <string name="activity_screen_streaming_sharing">Conectando &#8230;</string>
     <string name="activity_screen_streaming_share_game">Eu estou transmitindo  %1$s em %2$s</string>
     <string name="activity_screen_streaming_retry">Tentar novamente</string>
-    <string name="activity_screen_device_browser_name">Refletir no navegador</string>
     <string name="activity_screen_choose_email">Feedback com o email</string>
     <string name="activity_screen_live_loading">Carregando</string>
     <string name="activity_screen_live_title_hint">Título</string>
     <string name="activity_screen_live_game_hint">selecione jogo</string>
     <string name="activity_video_player_share">%1$s : %2$s</string>
     <string name="activity_video_player_welcome">Bem vindo a sala de bate papo!</string>
-    <string name="activity_no_medias">Sem videos para mostrar, verifique a barra de status para gravar tela.</string>
     <string name="activity_no_videos">Sem videos para mostrar</string>
     <string name="activity_no_games">Sem jogos para reproduzir</string>
     <string name="activity_no_following"> Sem atividade nos seguidos </string>
     <string name="activity_no_follower">Sem seguidores</string>
     <string name="activity_search_no_peoples">Sem pessoas</string>
     <string name="activity_search_no_games">Sem jogo</string>
-    <string name="activity_search_no_videos">Sem videos</string>
-    <string name="activity_recordings">Gravaçoes</string>
     <string name="activity_network_error">Erro na conexão com a rede ~</string>
-    <string name="activity_accessibility_enable">Ligar proteção de privacidade</string>
-    <string name="activity_accessibility_setting">Configurar proteção de privacidade</string>
     <string name="activity_accessibility_title">Proteções de privacidade</string>
     <string name="activity_accessibility_disable_label">Você precisa acessar Shou pelas Configurações, e cliclar sobre ele, para o ativar. Isso irá embaçar sua senha e suas informações privadas enquanto você grava ou transmite.</string>
     <!-- From the settings? Or the Shou settings? I translated from, but I don't know if the english version is correct. -->
     <string name="activity_accessibility_disable_setting">Vá para configurações</string>
-    <string name="activity_game_group_favorite">Jogos seguidos</string>
     <!-- Here is all about context, followed games are the games that the user follows? Or the videos about the games? -->
-    <string name="activity_game_group_played">Transmitir Jogos</string>
-    <string name="activity_find_friends_follow_all">Seguir todos</string>
-    <string name="activity_find_friends_text">Você tem %1$s %2$s amigos no Shou.TV.</string>
-    <string name="activity_find_friends_no_people">Nenhuma pessoa foi encontrada.</string>
     <string name="action_delete">Deletar</string>
     <string name="action_share">Compartilhar</string>
     <string name="action_edit">Editar</string>
     <string name="streaming_broadcasting">TRANSMITINDO</string>
-    <string name="streaming_recording">GRAVANDO</string>
-    <string name="streaming_mirroring">ESPELHANDO</string>
     <!-- I am guessing the meaning of mirroring as to reflect the image somewhere, so this is the translation I'm using -->
     <string name="streaming_chat">chat</string>
     <string name="streaming_btn_stop">Parar</string>
-    <string name="streaming_chat_title">Sala de bate-papo</string>
-    <string name="alert_dialog_button_close">Fechar</string>
-    <string name="alert_dialog_audio_patch">Patch</string>
     <!-- This is something that will be showed to the end user? If so the translation may be "Correção" but depends of the context -->
-    <string name="progress_dialog_connecting_to_airplay">Conectando ao dispositivo AirPlay %s</string>
     <!-- Don't know what is an AirPlay device -->
-    <string name="toast_airplay_screen_mirror_not_supported">Não foi possível conectar com esse serviço AirPlay, ou o dispositivo não suporta espelhamento de tela.</string>
-    <string name="progress_dialog_connecting_to_browser">Checando conexão de Wi-fi&#8230;</string>
-    <string name="toast_browser_screen_mirror_not_supported">Não foi possível encontrar uma rede Wi-Fi válida</string>
     <string name="toast_api_error_no_connection">Sem conexão com a rede</string>
     <string name="toast_api_error_connection_timeout">Conexão com a rede expirou</string>
     <string name="toast_api_error_server_5xx">O servidor Shou.TV encontrou erros</string>
@@ -150,44 +103,23 @@
     <string name="toast_worker_error_occurred">Ocorreu um erro interno!</string>
     <string name="toast_worker_error_server_die">Ocorreu um erro no servidor!</string>
     <string name="toast_worker_error_network_error">Erro na conexão com a rede ou não há espaço disponível no dispositivo!</string>
-    <string name="toast_screencast_saved">Screencast salva: %s</string>
-    <string name="toast_network_only_wifi">Você configurou para transmitir apenas pelo Wi-Fi</string>
     <string name="ticker_recording_started">Gravação de tela iniciado&#8230;</string>
     <string name="ticker_recording_stopped">Gravação de tela finalizada&#8230;</string>
-    <string name="ticker_airplay_started">Espelhamento de tela iniciado&#8230;</string>
-    <string name="ticker_airplay_stopped">Espelhamento de tela finalizada&#8230;</string>
-    <string name="ticker_airplay_mirroring_to">%s</string>
     <string name="ticker_live_started">Transmissão iniciada&#8230;</string>
     <string name="ticker_live_stopped">Encerrando transmissao&#8230;</string>
     <string name="ticker_live_casting_to">Ao vivo: %s</string>
-    <string name="ticker_browser_started">Ver sua tela no browser&#8230;</string>
-    <string name="ticker_browser_stopped">Browser casting parou&#8230;</string>
     <!-- What's the meaning of casting  in this situation? -->
-    <string name="ticker_browser_mirroring_to">%s</string>
     <string name="permission_read_shou_composer_label">leia Shou compositor</string>
     <string name="permission_read_shou_composer_description">Permite que o app grave sua tela ou tire uma screenshot. Todas as suas operações podem ser monitoradas, ex: seu teclado, senha, etc.</string>
     <string name="permission_group_shou_label">Shou</string>
     <string name="permission_group_shou_description">Permite que o app grave sua tela ou tire uma screenshot. Todas as suas operações podem ser monitoradas, ex: seu teclado, senha, etc.</string>
     <string name="permission_accessibility_description">Esse serviço irá lhe proteger de vazamentos de senha ou informações privadas quando gravar ou transmitir pelo Shou.TV</string>
     <string name="pref_title_category_video">Video</string>
-    <string name="pref_summary_category_video">fonte de video, decodificação, etc.</string>
-    <string name="pref_summary_category_audio">fonte de áudio, driver, etc.</string>
     <string name="pref_title_category_broadcast">Trasmissão</string>
-    <string name="pref_summary_category_broadcast">Transmissão ou espelhamento ao vivo</string>
-    <string name="pref_title_category_record">Gravar tela</string>
-    <string name="pref_summary_category_record">Gravar tela no sdcard</string>
-    <string name="pref_title_category_misc">Misc</string>
-    <string name="pref_summary_category_misc">Sobre, recompor, etc.</string>
-    <string name="pref_title_video_output_format">formato de vídeo</string>
-    <string name="pref_title_video_source_engine">Mecanismos de fonte</string>
     <!-- In this case I think is a proper noun, source engine, if so it can be kept in english -->
     <string name="pref_title_video_encoding_engine">Mecanismo de decodificação</string>
     <string name="pref_title_video_orientation">Orientação</string>
-    <string name="pref_title_video_resolution">Resolução</string>
-    <string name="pref_title_video_bitrate">Fluxo de bits</string>
-    <string name="pref_title_video_show_touches">Mostrar contatos</string>
     <!-- Again, touches have manny meanings -->
-    <string name="pref_summary_video_show_touches">Mostrar feedback visual para contato</string>
     <!-- Touches can mean many things, I translated here in the meaning of contact -->
     <string name="pref_title_video_swap_uv">Trocar UV</string>
     <string name="pref_summary_video_swap_uv">Concertar codificação HW de cor invertida</string>
@@ -195,9 +127,6 @@
     <string name="pref_summary_misc_auto_restart">Quanto se reiniciar transmissão ou espelhamento automaticamente depois que um erro ocorrer</string>
     <string name="pref_title_misc_bubble">Janela flutuante</string>
     <string name="pref_summary_misc_bubble">Exibir janela flutuante no topo da tela enquanto transmitindo ou refletindo</string>
-    <string name="pref_title_misc_recording_dir">Diretório de gravação</string>
-    <string name="pref_title_misc_about">Sobre</string>
-    <string name="pref_summary_misc_about">Versão: %s</string>
     <string name="pref_title_misc_twitter">Twitter</string>
     <string name="pref_summary_misc_twitter">\@Shou_TV</string>
     <string name="pref_title_misc_google_plus">Google+</string>
@@ -210,15 +139,10 @@
     <string name="msg_description_send">Enviar</string>
     <string name="msg_hint_send_msg">Enviar uma mensagem</string>
     <!-- What this action does? What is the meaning of No Login? -->
-    <string name="msg_description_emoji">Emoji</string>
     <string name="msg_ban_user_description">%s Já foi banido dessa sala.</string>
     <string name="msg_unban_user_description">%s já foi desbanido dessa sala.</string>
     <!-- Desbanir is a informal term, from the therm Banir, that is the translation of banned -->
-    <string name="msg_popup_detail">Perfil</string>
-    <string name="emoji_no_recent">Nenhum emoji recentemente usado</string>
-    <string name="emoji_description_back_space">Back space</string>
     <!-- Can be translated with the verb "Retroceder", but if reffers as the keyboard key it is OK to let it be in english. BackSpace key is still a basic part o BR. Keyboards -->
-    <string name="emoji_description_cell">Célula</string>
     <!-- What type of cell? -->
     <string name="time_ago_seconds">poucos segundos atrás</string>
     <string name="time_ago_minute">1 minuto atrás</string>
@@ -231,12 +155,6 @@
     <string name="time_ago_months">%d mêses atrás</string>
     <string name="time_ago_year">1 ano atrás</string>
     <string name="time_ago_years">%d anos atrás</string>
-    <string name="create_folder_label">Novo nome da pasta</string>
-    <string name="create_folder_success">Nova pasta criada</string>
-    <string name="create_folder_error_no_write_access">Não é possível escrever nessa pasta</string>
-    <string name="create_folder_error_already_exists">Pasta já existe</string>
-    <string name="create_folder_error">Não foi possível criar uma pasta</string>
-    <string name="directory_chooser_up_label">Up</string>
     <!-- What is this function? It 'Ups' the video to make it more visible? Or go up on the screen? -->
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">Acesso Root é necessário</string>
