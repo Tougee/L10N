@@ -162,6 +162,8 @@
 "account_btn_signing_in" = "登录中";
 "account_btn_signed_in" = "登录成功";
 "account_btn_sign_in_failed" = "登录失败";
+"account_btn_sign_in_username_failed" = "用户名或密码错误";
+"account_btn_sign_in_email_failed" = "邮箱或密码错误";
 "account_btn_forgot_password" = "忘记密码了？";
 "account_title_forget" = "忘记密码";
 "account_btn_recover_password" = "给我发送邮件";

@@ -163,6 +163,8 @@
 "account_btn_signed_up" = "註冊成功";
 "account_btn_signing_in" = "登入中";
 "account_btn_signed_in" = "登入成功";
+"account_btn_sign_in_username_failed" = "名稱或密碼錯誤";
+"account_btn_sign_in_email_failed" = "電子郵箱地址或密碼錯誤";
 "account_btn_forgot_password" = "忘記密碼了？";
 "account_title_forget" = "忘記密碼";
 "account_btn_recover_password" = "向我寄信";

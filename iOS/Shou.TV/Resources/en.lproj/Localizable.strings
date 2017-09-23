@@ -164,6 +164,8 @@
 "account_btn_signing_in" = "Logging In";
 "account_btn_signed_in" = "Logged In";
 "account_btn_sign_in_failed" = "Failed to log in with provided information";
+"account_btn_sign_in_username_failed" = "Incorrect username or password";
+"account_btn_sign_in_email_failed" = "Incorrect email or password";
 "account_btn_forgot_password" = "Forgot your password?";
 "account_title_forget" = "Reset password";
 "account_btn_recover_password" = "Send me instruction";
