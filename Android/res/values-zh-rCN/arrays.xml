@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <resources>
-
     <string-array name="pref_entries_video_source_engine">
         <item>幻影（极快，较稳定）</item>
         <item>内存（较慢，很稳定）</item>
@@ -13,42 +12,10 @@
         <item>横屏</item>
         <item>竖屏</item>
     </string-array>
-    <string-array name="pref_entries_video_resolution">
-        <item>240P</item>
-        <item>320P</item>
-        <item>480P</item>
-        <item>640P</item>
-        <item>720P</item>
-    </string-array>
-    <string-array name="pref_entries_video_bitrate">
-        <item>256 Kbps</item>
-        <item>512 Kbps</item>
-        <item>1 Mbps</item>
-        <item>2 Mbps</item>
-        <item>4 Mbps</item>
-    </string-array>
     <string-array name="pref_entries_video_quality">
         <item>低</item>
         <item>中</item>
         <item>高</item>
-    </string-array>
-    <string-array name="pref_entries_record_video_resolution">
-        <item>240P</item>
-        <item>320P</item>
-        <item>480P</item>
-        <item>640P</item>
-        <item>720P</item>
-        <item>1080P</item>
-    </string-array>
-    <string-array name="pref_entries_record_video_bitrate">
-        <item>256 Kbps</item>
-        <item>512 Kbps</item>
-        <item>1 Mbps</item>
-        <item>2 Mbps</item>
-        <item>4 Mbps</item>
-        <item>8 Mbps</item>
-        <item>10 Mbps</item>
-        <item>16 Mbps</item>
     </string-array>
     <string-array name="profile_tabs">
         <item>视频</item>
@@ -64,9 +31,4 @@
         <item>主播</item>
         <item>游戏</item>
     </string-array>
-    <string-array name="pref_entries_video_broadcast_type">
-        <item>公开</item>
-        <item>私密</item>
-    </string-array>
-
 </resources>
