@@ -508,8 +508,8 @@
     <string name="video_editor_mocr">CREATE WITH MOCR</string>
     <string name="menu_content_banned_users">Banned users</string>
     <string name="menu_content_moderators">Moderators</string>
-    <string name="menu_content_mic_close">Close mic</string>
-    <string name="menu_content_mic_open">Open mic</string>
+    <string name="menu_content_mic_close">Mute mic</string>
+    <string name="menu_content_mic_open">Unmute mic</string>
     <string name="menu_content_privacy_manul">Manul privacy</string>
     <string name="menu_content_privacy_close">Close privacy</string>
     <string name="menu_content_camera_close">Close camera</string>
