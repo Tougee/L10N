@@ -444,6 +444,9 @@
 "broadcast_quality_medium" = "Medium";
 "broadcast_quality_high" = "High";
 "broadcast_title_empty" = "Please enter broadcast title";
+"broadcast_privacy" = "Privacy";
+"broadcast_stop" = "STOP";
+"broadcasting_title" = "BROADCASTING";
 
 "moment_title" = "Moment";
 "moment_guide" = "Create a moment";

@@ -441,6 +441,9 @@
 "broadcast_quality_medium" = "中";
 "broadcast_quality_high" = "高";
 "broadcast_title_empty" = "请输入直播标题";
+"broadcast_privacy" = "隐私";
+"broadcast_stop" = "停止";
+"broadcasting_title" = "直播中";
 
 "moment_title" = "短视频";
 "moment_guide" = "上传游戏短视频";

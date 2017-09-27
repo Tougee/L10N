@@ -438,6 +438,9 @@
 "broadcast_quality_medium" = "中";
 "broadcast_quality_high" = "高";
 "broadcast_title_empty" = "請輸入直播標題";
+"broadcast_privacy" = "隱私";
+"broadcast_stop" = "停止";
+"broadcasting_title" = "直播中";
 
 "moment_title" = "影片";
 "moment_guide" = "上傳遊戲影片";

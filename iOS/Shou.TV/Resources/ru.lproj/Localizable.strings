@@ -365,6 +365,7 @@
 "broadcast_quality_medium" = "Среднее";
 "broadcast_quality_high" = "Высокое";
 "broadcast_title_empty" = "Пожалуйста, введите название трансляции";
+"broadcasting_title" = "ТРАНСЛЯЦИЯ";
 
 "notification_push_live" = "🔥 %@ начал трансляцию «%@»";
 "notification_push_follow" = "💞 %@ подписался на вас";
