@@ -444,6 +444,7 @@
 "broadcast_privacy" = "隐私";
 "broadcast_stop" = "停止";
 "broadcasting_title" = "直播中";
+"broadcast_wait" = "请稍后...";
 
 "moment_title" = "短视频";
 "moment_guide" = "上传游戏短视频";

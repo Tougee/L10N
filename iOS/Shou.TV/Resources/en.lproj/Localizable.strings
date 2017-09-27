@@ -447,6 +447,7 @@
 "broadcast_privacy" = "Privacy";
 "broadcast_stop" = "STOP";
 "broadcasting_title" = "BROADCASTING";
+"broadcast_wait" = "Please wait...";
 
 "moment_title" = "Moment";
 "moment_guide" = "Create a moment";
