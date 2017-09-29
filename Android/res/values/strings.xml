@@ -251,6 +251,7 @@
     <string name="login_password">Password</string>
     <string name="login_log_in_username">Username or email</string>
     <string name="login_log_in_no_account">No account yet? Sign up</string>
+    <string name="login_log_in_forget">Forgot your password？</string>
     <string name="login_email_hint">Please input email</string>
     <string name="login_send_message">Send message</string>
     <string name="login_type_tips">By proceeding, you agree to the <xliff:g>%1$s</xliff:g> and <xliff:g>%2$s</xliff:g></string>

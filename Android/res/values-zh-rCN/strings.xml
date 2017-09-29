@@ -390,6 +390,7 @@
     <string name="login_info_username_title">选择一个用户名</string>
     <string name="login_log_in">登录</string>
     <string name="login_log_in_no_account">还没有账号？点我注册</string>
+    <string name="login_log_in_forget">忘记密码？</string>
     <string name="login_log_in_username">用户名或邮箱</string>
     <string name="login_mistyped_email">邮箱不对，点我更改</string>
     <string name="avatar_skip">跳过</string>
