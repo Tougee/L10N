@@ -433,13 +433,13 @@
     <string name="description_menu_profile_icon">Profile icon</string>
 
     <string name="fragment_app_game">GAMES</string>
-    <string name="fragment_app_moments">Moments</string>
+    <string name="fragment_app_moments">MOMENTS</string>
     <string name="activity_no_games">No games to show</string>
     <string name="tab_feed">Home</string>
     <string name="tab_explore">Explore</string>
     <string name="menu_message">Messages</string>
     <string name="fragment_app_more">More >></string>
-    <string name="fragment_app_broadcasts">Broadcasts</string>
+    <string name="fragment_app_broadcasts">BROADCASTS</string>
 
     <string name="activity_landing_btn_sign_up">Sign Up</string>
     <string name="activity_landing_btn_sign_in">Sign In</string>
