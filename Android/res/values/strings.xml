@@ -190,6 +190,7 @@
     <string name="menu_report">Report</string>
     <string name="menu_quality">Quality</string>
     <string name="activity_network_error">Network connection error ~</string>
+    <string name="activity_sign_in_tips">Welcome to Shou</string>
 
     <string name="toast_textview_copy_clipboard">Copied to clipboard</string>
     <string name="msg_mute">Mute</string>
@@ -246,10 +247,10 @@
     <string name="activity_followers_title">FOLLOWERS</string>
 
     <string name="login_sign_up">Sign up</string>
-    <string name="login_log_in">Sign in</string>
+    <string name="login_log_in">Log in</string>
     <string name="login_password">Password</string>
     <string name="login_log_in_username">Username or email</string>
-    <string name="login_log_in_forget">Forgot your password?</string>
+    <string name="login_log_in_no_account">No account yet? Sign up</string>
     <string name="login_email_hint">Please input email</string>
     <string name="login_send_message">Send message</string>
     <string name="login_type_tips">By proceeding, you agree to the <xliff:g>%1$s</xliff:g> and <xliff:g>%2$s</xliff:g></string>
@@ -432,11 +433,13 @@
     <string name="description_menu_profile_icon">Profile icon</string>
 
     <string name="fragment_app_game">GAMES</string>
-    <string name="fragment_app_moments">MOMENTS</string>
+    <string name="fragment_app_moments">Moments</string>
     <string name="activity_no_games">No games to show</string>
     <string name="tab_feed">Home</string>
     <string name="tab_explore">Explore</string>
     <string name="menu_message">Messages</string>
+    <string name="fragment_app_more">More >></string>
+    <string name="fragment_app_broadcasts">Broadcasts</string>
 
     <string name="activity_landing_btn_sign_up">Sign Up</string>
     <string name="activity_landing_btn_sign_in">Sign In</string>

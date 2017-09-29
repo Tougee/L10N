@@ -389,7 +389,7 @@
     <string name="login_info_password_title">设置密码</string>
     <string name="login_info_username_title">选择一个用户名</string>
     <string name="login_log_in">登录</string>
-    <string name="login_log_in_forget">忘记密码？</string>
+    <string name="login_log_in_no_account">还没有账号？点我注册</string>
     <string name="login_log_in_username">用户名或邮箱</string>
     <string name="login_mistyped_email">邮箱不对，点我更改</string>
     <string name="avatar_skip">跳过</string>
@@ -413,5 +413,8 @@
     <string name="menu_content_mic_close">关闭麦克风</string>
     <string name="menu_content_mic_open">打开麦克风</string>
     <string name="menu_content_stop_broadcast">结束直播</string>
+    <string name="fragment_app_moments">视频</string>
+    <string name="fragment_app_more">更多 >></string>
+    <string name="fragment_app_broadcasts">直播</string>
 </resources>
 
