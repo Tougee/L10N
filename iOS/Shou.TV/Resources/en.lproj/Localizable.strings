@@ -67,6 +67,7 @@
 "profile_title_feedback" = "Feedback";
 "profile_feedback_placeholder" = "Write your feedback";
 "profile_feedback_hint" = "Screenshot of the last page you were on will also be sent";
+"profile_view_profile" = "View your profile";
 
 "landing_slogan" = "Shou is the \nmobile game streaming community.";
 "landing_btn_vk" = "Continue with VK";
@@ -298,7 +299,7 @@
 "about_title" = "About";
 "about_title_help" = "Help Center";
 "about_title_faq" = "FAQ";
-"about_title_notifications" = "Notifications";
+"about_title_notifications" = "Notification Settings";
 "about_title_clear_cache" = "Clear Cache";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "Website";
@@ -366,6 +367,7 @@
 "message_share_moment" = "%@ shared a moment with you";
 "message_upload_moment" = "%@ uploaded a new moment";
 "message_like_moment" = "%@ liked your moment";
+"message_comment_moment" = "%@ commented your moment";
 "message_new_placeholder" = "Write a message...";
 "message_notification_tip" = "🔔 Click to turn on push notifications";
 "message_from_following_all_marked_read" = "All following messages marked as read.";
@@ -401,7 +403,7 @@
 "notification_push_replaykit_share" = "🔥 %@ shared your broadcast to %@ friends";
 "notification_push_replaykit_gift" = "🎁 %@ sent you %@";
 
-
+"notification_title" = "Notifications";
 "notification_permission_tips" = "Enable notifications to get notified whenever your favorite broadcaster goes LIVE";
 "notification_permission_cancel" = "Not now";
 "notification_permission_enable" = "Enable Notifications";

@@ -66,6 +66,7 @@
 "profile_title_feedback" = "举报用户";
 "profile_feedback_placeholder" = "情况描述";
 "profile_feedback_hint" = "将会发送上个页面的截图";
+"profile_view_profile" = "查看个人主页";
 
 "landing_slogan" = "Shou 是一个手机游戏直播社区";
 "landing_btn_vk" = "通过 VK 登录";
@@ -296,7 +297,7 @@
 "about_title" = "关于";
 "about_title_help" = "帮助中心";
 "about_title_faq" = "FAQ";
-"about_title_notifications" = "消息通知";
+"about_title_notifications" = "推送通知设置";
 "about_title_clear_cache" = "清理缓存";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "官方网站";
@@ -364,6 +365,7 @@
 "message_share_moment" = "%@ 分享给你一个视频";
 "message_upload_moment" = "%@ 上传了一个新的视频";
 "message_like_moment" = "%@ 为您的视频点了一个赞";
+"message_comment_moment" = "%@ 评论了您的视频";
 "message_new_placeholder" = "发消息...";
 "message_notification_tip" = "🔔 点击打开推送通知";
 "message_from_following_all_marked_read" = "所有关注私信标记为已读";
@@ -398,6 +400,7 @@
 "notification_push_replaykit_share" = "🔥 %@ 分享你的直播给 %@ 个好友";
 "notification_push_replaykit_gift" = "🎁 %@ 送你 %@";
 
+"notification_title" = "通知";
 "notification_permission_tips" = "允许收到你喜欢的主播开始直播的通知";
 "notification_permission_cancel" = "暂不";
 "notification_permission_enable" = "允许通知";
