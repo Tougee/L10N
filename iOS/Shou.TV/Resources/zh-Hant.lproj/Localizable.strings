@@ -31,6 +31,8 @@
 "tab_explore" = "探索";
 "tab_me" = "我的";
 "tab_messages" = "訊息";
+"tab_new" = "新影片";
+"tab_following" = "關注";
 
 "explore_broadcasters" = "主播";
 "explore_recommended" = "推薦";

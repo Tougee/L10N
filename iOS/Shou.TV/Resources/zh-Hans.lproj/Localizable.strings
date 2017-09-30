@@ -29,8 +29,10 @@
 "tab_players" = "玩家";
 "tab_videos" = "视频";
 "tab_explore" = "探索";
-"tab_me" = "我的";
+"tab_me" = "我";
 "tab_messages" = "消息";
+"tab_new" = "新视频";
+"tab_following" = "关注";
 
 "explore_broadcasters" = "主播";
 "explore_recommended" = "推荐";

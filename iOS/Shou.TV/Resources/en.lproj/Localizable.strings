@@ -31,6 +31,8 @@
 "tab_explore" = "EXPLORE";
 "tab_me" = "Me";
 "tab_messages" = "Messages";
+"tab_new" = "NEW";
+"tab_following" = "FOLLOW";
 
 "explore_broadcasters" = "BROADCASTERS";
 "explore_recommended" = "Recommended";
