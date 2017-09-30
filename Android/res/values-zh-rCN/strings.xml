@@ -313,6 +313,7 @@
     <string name="send_cash_info">什么是金币?</string>
     <string name="more_sheet_more_viewers">更多观众</string>
     <string name="more_sheet_more_likers">更多喜欢的人</string>
+    <string name="profile_moment">视频</string>
     <string name="profile_achievements">成就</string>
     <string name="profile_top_followers">粉丝榜</string>
     <string name="fragment_message_list_footer_view_text">私信将在 24 小时后被删除</string>
@@ -405,6 +406,7 @@
     <string name="video_editor_warning">视频文件过大</string>
     <string name="video_editor_next">下一步</string>
     <string name="video_editor_upload">上传</string>
+    <string name="video_editor_mocr">通过 MOCR 创作</string>
     <string name="video_editor_gallery_title">选择一个游戏视频</string>
     <string name="video_editor_edit_title">编辑</string>
     <string name="video_editor_conver_title">设置封面</string>
@@ -413,5 +415,6 @@
     <string name="menu_content_mic_close">关闭麦克风</string>
     <string name="menu_content_mic_open">打开麦克风</string>
     <string name="menu_content_stop_broadcast">结束直播</string>
+    <string name="action_done">完成</string>
 </resources>
 
