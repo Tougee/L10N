@@ -293,11 +293,13 @@
 "setting_notificaion_broadcast" = "新直播";
 "setting_notificaion_moment" = "新短片";
 "setting_notificaion_comment" = "新留言";
+"setting_notificaion_chat" = "新聊天訊息";
+"setting_notificaion_chat_summary" = "當你直播時顯示聊天、禮物和分享的通知";
 
 "about_title" = "關於";
 "about_title_help" = "說明中心";
 "about_title_faq" = "FAQ";
-"about_title_notifications" = "推送通知設置";
+"about_title_notifications" = "通知設置";
 "about_title_clear_cache" = "清除快取";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "官方網站";

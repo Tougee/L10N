@@ -295,6 +295,8 @@
 "setting_notificaion_broadcast" = "Broadcast Notification";
 "setting_notificaion_moment" = "Moment Notification";
 "setting_notificaion_comment" = "Comment Notification";
+"setting_notificaion_chat" = "Chat Notification";
+"setting_notificaion_chat_summary" = "Display chat, gift and share notifications when you are broadcasting";
 
 "about_title" = "About";
 "about_title_help" = "Help Center";
