@@ -330,6 +330,7 @@
 "broadcast_quality_medium" = "中";
 "broadcast_quality_high" = "高";
 "broadcast_title_empty" = "放送タイトルを入力してください";
+"broadcasting_title" = "放送中";
 
 "notification_push_live" = "🔥 %@は%@をブロードキャストしています";
 "notification_push_follow" = "💞 があなたをフォローしました";

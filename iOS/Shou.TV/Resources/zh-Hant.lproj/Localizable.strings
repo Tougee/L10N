@@ -31,6 +31,8 @@
 "tab_explore" = "探索";
 "tab_me" = "我的";
 "tab_messages" = "訊息";
+"tab_new" = "新影片";
+"tab_following" = "關注";
 
 "explore_broadcasters" = "主播";
 "explore_recommended" = "推薦";
@@ -66,6 +68,7 @@
 "profile_title_feedback" = "檢舉";
 "profile_feedback_placeholder" = "情況描述";
 "profile_feedback_hint" = "將會發送上個頁面的截圖";
+"profile_view_profile" = "查看個人主頁";
 
 "landing_slogan" = "Shou 是一個手機遊戲直播社群";
 "landing_btn_vk" = "透過 VK 登入";
@@ -163,6 +166,8 @@
 "account_btn_signed_up" = "註冊成功";
 "account_btn_signing_in" = "登入中";
 "account_btn_signed_in" = "登入成功";
+"account_btn_sign_in_username_failed" = "名稱或密碼錯誤";
+"account_btn_sign_in_email_failed" = "電子郵箱地址或密碼錯誤";
 "account_btn_forgot_password" = "忘記密碼了？";
 "account_title_forget" = "忘記密碼";
 "account_btn_recover_password" = "向我寄信";
@@ -290,11 +295,13 @@
 "setting_notificaion_broadcast" = "新直播";
 "setting_notificaion_moment" = "新短片";
 "setting_notificaion_comment" = "新留言";
+"setting_notificaion_chat" = "新聊天訊息";
+"setting_notificaion_chat_summary" = "當你直播時顯示聊天、禮物和分享的通知";
 
 "about_title" = "關於";
 "about_title_help" = "說明中心";
 "about_title_faq" = "FAQ";
-"about_title_notifications" = "消息通知";
+"about_title_notifications" = "通知設置";
 "about_title_clear_cache" = "清除快取";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "官方網站";
@@ -362,6 +369,7 @@
 "message_share_moment" = "%@ 向您分享了一個影片";
 "message_upload_moment" = "%@ 上傳了一個新的影片";
 "message_like_moment" = "%@ 為您的影片按了一個讚";
+"message_comment_moment" = "%@ 評論了您的影片";
 "message_new_placeholder" = "寫訊息...";
 "message_notification_tip" = "🔔 點擊打開推送通知";
 "message_from_following_all_marked_read" = "所有追蹤者訊息被標為已讀";
@@ -395,6 +403,7 @@
 "notification_push_replaykit_share" = "🔥 %@ 分享您的直播給 %@ 個好友";
 "notification_push_replaykit_gift" = "🎁 %@ 抖内给您 %@";
 
+"notification_title" = "通知";
 "notification_permission_tips" = "允許收到您喜歡的主播開始直播的通知";
 "notification_permission_cancel" = "暫不";
 "notification_permission_enable" = "允許通知";
@@ -436,6 +445,10 @@
 "broadcast_quality_medium" = "中";
 "broadcast_quality_high" = "高";
 "broadcast_title_empty" = "請輸入直播標題";
+"broadcast_privacy" = "隱私";
+"broadcast_stop" = "停止";
+"broadcasting_title" = "直播中";
+"broadcast_wait" = "稍等片刻...";
 
 "moment_title" = "影片";
 "moment_guide" = "上傳遊戲影片";

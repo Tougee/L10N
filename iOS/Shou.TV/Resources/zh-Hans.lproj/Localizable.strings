@@ -29,8 +29,10 @@
 "tab_players" = "玩家";
 "tab_videos" = "视频";
 "tab_explore" = "探索";
-"tab_me" = "我的";
+"tab_me" = "我";
 "tab_messages" = "消息";
+"tab_new" = "新视频";
+"tab_following" = "关注";
 
 "explore_broadcasters" = "主播";
 "explore_recommended" = "推荐";
@@ -66,6 +68,7 @@
 "profile_title_feedback" = "举报用户";
 "profile_feedback_placeholder" = "情况描述";
 "profile_feedback_hint" = "将会发送上个页面的截图";
+"profile_view_profile" = "查看个人主页";
 
 "landing_slogan" = "Shou 是一个手机游戏直播社区";
 "landing_btn_vk" = "通过 VK 登录";
@@ -162,6 +165,8 @@
 "account_btn_signing_in" = "登录中";
 "account_btn_signed_in" = "登录成功";
 "account_btn_sign_in_failed" = "登录失败";
+"account_btn_sign_in_username_failed" = "用户名或密码错误";
+"account_btn_sign_in_email_failed" = "邮箱或密码错误";
 "account_btn_forgot_password" = "忘记密码了？";
 "account_title_forget" = "忘记密码";
 "account_btn_recover_password" = "给我发送邮件";
@@ -290,11 +295,13 @@
 "setting_notificaion_broadcast" = "新直播";
 "setting_notificaion_moment" = "新视频";
 "setting_notificaion_comment" = "新评论";
+"setting_notificaion_chat" = "新聊天消息";
+"setting_notificaion_chat_summary" = "当你直播时显示聊天、礼物和直播被分享的通知";
 
 "about_title" = "关于";
 "about_title_help" = "帮助中心";
 "about_title_faq" = "FAQ";
-"about_title_notifications" = "消息通知";
+"about_title_notifications" = "通知设置";
 "about_title_clear_cache" = "清理缓存";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "官方网站";
@@ -362,6 +369,7 @@
 "message_share_moment" = "%@ 分享给你一个视频";
 "message_upload_moment" = "%@ 上传了一个新的视频";
 "message_like_moment" = "%@ 为您的视频点了一个赞";
+"message_comment_moment" = "%@ 评论了您的视频";
 "message_new_placeholder" = "发消息...";
 "message_notification_tip" = "🔔 点击打开推送通知";
 "message_from_following_all_marked_read" = "所有关注私信标记为已读";
@@ -396,6 +404,7 @@
 "notification_push_replaykit_share" = "🔥 %@ 分享你的直播给 %@ 个好友";
 "notification_push_replaykit_gift" = "🎁 %@ 送你 %@";
 
+"notification_title" = "通知";
 "notification_permission_tips" = "允许收到你喜欢的主播开始直播的通知";
 "notification_permission_cancel" = "暂不";
 "notification_permission_enable" = "允许通知";
@@ -414,7 +423,7 @@
 "activity_screen_streaming_retry" = "重试";
 "activity_network_error" = "网络异常~";
 "activity_hint_welcome" = "欢迎来到 Shou";
-"activity_button_retry" = "刷新页面";
+"activity_button_retry" = "重试";
 "activity_button_login" = "前往登录";
 "activity_button_follow" = "前往关注";
 
@@ -439,6 +448,10 @@
 "broadcast_quality_medium" = "中";
 "broadcast_quality_high" = "高";
 "broadcast_title_empty" = "请输入直播标题";
+"broadcast_privacy" = "隐私";
+"broadcast_stop" = "停止";
+"broadcasting_title" = "直播中";
+"broadcast_wait" = "请稍后...";
 
 "moment_title" = "短视频";
 "moment_guide" = "上传游戏短视频";

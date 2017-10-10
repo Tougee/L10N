@@ -240,7 +240,7 @@
     <string name="description_play_pause">Play pause</string>
 
 
-    <string name="profile_moment">MOMENT</string>
+    <string name="profile_moment">MOMENTS</string>
     <string name="profile_achievements">ACHIEVEMENTS</string>
     <string name="profile_top_followers">TOP FOLLOWERS</string>
     <string name="activity_following_title">FOLLOWING</string>
@@ -512,11 +512,12 @@
     <string name="video_editor_mocr">CREATE WITH MOCR</string>
     <string name="menu_content_banned_users">Banned users</string>
     <string name="menu_content_moderators">Moderators</string>
-    <string name="menu_content_mic_close">Close mic</string>
-    <string name="menu_content_mic_open">Open mic</string>
+    <string name="menu_content_mic_close">Mute mic</string>
+    <string name="menu_content_mic_open">Unmute mic</string>
     <string name="menu_content_privacy_manul">Manul privacy</string>
     <string name="menu_content_privacy_close">Close privacy</string>
     <string name="menu_content_camera_close">Close camera</string>
     <string name="menu_content_camera_open">Open camera</string>
     <string name="menu_content_stop_broadcast">Stop broadcast</string>
+    <string name="action_done">Done</string>
 </resources>

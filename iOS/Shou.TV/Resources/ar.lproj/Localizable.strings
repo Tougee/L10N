@@ -348,6 +348,7 @@
 "broadcast_quality_medium" = "متوسط";
 "broadcast_quality_high" = "عالي";
 "broadcast_title_empty" = "يرجى اختيار عنوان البث";
+"broadcasting_title" = "جاري البث";
 
 "notification_push_live" = "🔥 %@ يبث %@";
 "notification_push_follow" = "💞 %@ يتابعونك";
