@@ -273,6 +273,8 @@
 "msg_send_faild_too_quickly" = "您傳送訊息過於頻繁，請稍後重試";
 "msg_send_faild_limit" = "您傳送訊息過於頻繁，請在 %@ 秒後重試";
 "msg_send_faild_same" = "請勿傳送重複內容";
+"message_send_faild_muted" = "你被禁止發言了";
+"comment_send_faild_muted" = "你被禁止發言了";
 
 "toast_api_error_forbidden" = "禁止存取";
 "toast_api_error_no_connection" = "無網路連線";

@@ -273,6 +273,8 @@
 "msg_send_faild_too_quickly" = "您的消息发送过于频繁，请稍后重试";
 "msg_send_faild_limit" = "您的消息发送过于频繁，请在 %@ 秒后重试";
 "msg_send_faild_same" = "请勿发送重复内容";
+"message_send_faild_muted" = "你被屏蔽了";
+"comment_send_faild_muted" = "你被屏蔽了";
 
 "toast_api_error_forbidden" = "禁止访问";
 "toast_api_error_no_connection" = "无网络连接";
