@@ -120,6 +120,7 @@
     <string name="msg_mute_confirm">屏蔽</string>
     <string name="msg_mute_cancel">取消</string>
     <string name="msg_mute_me">主播屏蔽了你，你无法发送私信</string>
+    <string name="comment_mute_me">主播屏蔽了你，你无法发送评论</string>
     <string name="time_ago_seconds">刚刚</string>
     <string name="time_ago_minute">1 分钟</string>
     <string name="time_ago_minutes">%d 分钟</string>
@@ -420,5 +421,6 @@
     <string name="fragment_app_more">更多 >></string>
     <string name="fragment_app_broadcasts">直播</string>
     <string name="action_done">完成</string>
+    <string name="error_data">数据错误</string>
 </resources>
 

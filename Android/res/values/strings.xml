@@ -315,6 +315,7 @@
     <string name="msg_ban_user_description">%s is banned in this room.</string>
     <string name="msg_unban_user_description">%s is unbanned in this room.</string>
     <string name="msg_mute_me">The broadcaster mute you, you cannot send messages</string>
+    <string name="comment_mute_me">The broadcaster mute you, you cannot send comments</string>
     <string name="activity_video_player_welcome">Welcome to the chat room!</string>
     <string name="activity_no_message">No message</string>
     <string name="verify_account_title">Verify your account</string>
@@ -520,4 +521,5 @@
     <string name="menu_content_camera_open">Open camera</string>
     <string name="menu_content_stop_broadcast">Stop broadcast</string>
     <string name="action_done">Done</string>
+    <string name="error_data">Error data</string>
 </resources>

@@ -263,6 +263,8 @@
 "msg_send_faild_too_quickly" = "Mesajınız gönderilmedi çünkü çok hızlı mesaj gönderiyorsunuz.";
 "msg_send_faild_limit" = "Mesajınız gönderilmedi çünkü çok hızlı mesaj gönderiyorsunuz. %@ saniye içinde yeniden gönderebileceksiniz.";
 "msg_send_faild_same" = "Mesajınız gönderilmedi çünkü bir önceki mesajınız ile aynı.";
+"message_send_faild_muted" = "Your message not sent because you were muted by the broadcaster.";
+"comment_send_faild_muted" = "Your comment not sent because you were muted by the broadcaster.";
 
 "toast_api_error_forbidden" = "Erişim yasak";
 "toast_api_error_no_connection" = "Ağ bağlantısı yok";
