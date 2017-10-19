@@ -351,7 +351,7 @@
     <string name="login_edit_avatar_crop_failure">裁剪错误</string>
     <string name="login_edit_avatar_load_failure">上传错误</string>
     <string name="login_edit_avatar_tip">你可以随时更换你的头像</string>
-    <string name="login_email_dialog_title">我们将发送一个验证码到你的电子邮件%s</string>
+    <string name="login_email_dialog_title">我们将通过Email给 %s 发送验证码</string>
     <string name="login_email_hint">请输入邮箱</string>
     <string name="login_email_send_tips">发送验证码到您的邮箱</string>
     <string name="login_have_account">已有账号？点我登录</string>
@@ -377,7 +377,7 @@
     <string name="login_info_invalid_username">无效的用户名</string>
     <string name="login_info_password_tip">密码长度至少6位</string>
     <string name="login_sign_up">注册</string>
-    <string name="login_send_message">发送消息</string>
+    <string name="login_send_message">通过Email发送</string>
     <string name="login_reset_change_password">更改我的密码</string>
     <string name="login_pin_title">验证码</string>
     <string name="login_pin_sent_msg">我们已向 %s 发送了包含验证码的电子邮件</string>
@@ -386,7 +386,7 @@
     <string name="login_type_terms_service">服务条款</string>
     <string name="login_type_tips">继续使用即表示你同意 <xliff:g>%1$s</xliff:g> 以及 <xliff:g>%2$s</xliff:g></string>
     <string name="login_log_privacy_policy_wrapper">我们不会公开你的电话号码，请阅读&#160;%s&#160;了解更多</string>
-    <string name="login_email_sent">收到邮件后，请在下个页面输入4位验证码完成你的验证</string>
+    <string name="login_email_sent">收到邮件后，请在下个页面输入4位验证码完成你的Email验证。</string>
     <string name="login_info_full_name_tip">你可以随时更改</string>
     <string name="login_info_password_title">设置密码</string>
     <string name="login_info_username_title">选择一个用户名</string>

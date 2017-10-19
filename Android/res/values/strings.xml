@@ -253,7 +253,7 @@
     <string name="login_log_in_no_account">No account yet? Sign up</string>
     <string name="login_log_in_forget">Forgot your password？</string>
     <string name="login_email_hint">Please input email</string>
-    <string name="login_send_message">Send message</string>
+    <string name="login_send_message">Send via Email</string>
     <string name="login_type_tips">By proceeding, you agree to the <xliff:g>%1$s</xliff:g> and <xliff:g>%2$s</xliff:g></string>
     <string name="login_log_privacy_policy_wrapper">We will never display your phone number publicly, read our&#160;%s&#160;to learn more</string>
     <string name="login_have_account">Have an account? Log in</string>
@@ -262,7 +262,7 @@
     <string name="login_log_privacy_policy">Privacy Policy</string>
     <string name="login_type_terms_service">Terms of Service</string>
 
-    <string name="login_email_dialog_title">We will sent a verification code to your email %s</string>
+    <string name="login_email_dialog_title">We will send a verification code to %s</string>
     <string name="login_email_sent">Please enter the 4 digit verification code in next screen to verify your email.</string>
     <string name="login_pin_sent_msg">We have sent a verification code to %s via Email</string>
     <string name="login_pin_title">Verification code</string>
@@ -440,7 +440,7 @@
     <string name="tab_feed">Home</string>
     <string name="tab_explore">Explore</string>
     <string name="menu_message">Messages</string>
-    <string name="fragment_app_more">More >></string>
+    <string name="fragment_app_more">MORE >></string>
     <string name="fragment_app_broadcasts">BROADCASTS</string>
 
     <string name="activity_landing_btn_sign_up">Sign Up</string>
